@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Iris (she/her).
 
+🌱 I’m currently studying education data science at Stanford. 
+🔭 I like coffee and avocado. 
+
+
+
+
+🔭 I’m currently working on ...
 <!--
 **Shengqi-Iris-Zhong/Shengqi-Iris-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
