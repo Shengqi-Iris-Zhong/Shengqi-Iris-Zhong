@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Iris (she/her).
 
 🌱 I’m currently studying education data science at Stanford. 
+
 🔭 I like coffee and avocado. 
 
 
