@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Iris (she/her).
 
-🌱 I’m currently studying education data science at Stanford. 
+:computer: I’m a research analyst at Education Analytics.
 
-🔭 I like coffee and avocado. 
+:notebook: I studied Education Data Science at Stanford, and Psychology and Quantitative Economics at Smith College.
+
+:coffee: I like coffee and avocado. 
 
 
 
