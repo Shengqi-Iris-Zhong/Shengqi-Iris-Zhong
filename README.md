@@ -6,6 +6,10 @@
 
 :coffee: I like coffee and avocado. 
 
+🎵 I enjoy j-pop and k-pop.
+
+📜 I use R, Python and SQL. 
+
 
 
 
