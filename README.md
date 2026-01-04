@@ -4,15 +4,7 @@
 
 :notebook: I studied Education Data Science at Stanford, and Psychology and Quantitative Economics at Smith College.
 
-:coffee: I like coffee and avocado. 
-
-🎵 I enjoy j-pop and k-pop.
-
-📜 I use R, Python and SQL. 
-
-
-
-
+Check out my [personal webiste](https://shengqi-iris-zhong.github.io/)!
 
 <!--
 **Shengqi-Iris-Zhong/Shengqi-Iris-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
