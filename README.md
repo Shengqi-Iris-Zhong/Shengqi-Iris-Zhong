@@ -4,7 +4,7 @@
 
 :notebook: I studied Education Data Science at Stanford, and Psychology and Quantitative Economics at Smith College.
 
-Check out my [personal webiste](https://shengqi-iris-zhong.github.io/)!
+Check out my [personal website](https://shengqi-iris-zhong.github.io/)!
 
 <!--
 **Shengqi-Iris-Zhong/Shengqi-Iris-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
